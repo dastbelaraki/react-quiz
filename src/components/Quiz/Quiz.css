@@ -1,0 +1,27 @@
+.quiz{
+    background: #3e3d3c url(../../assets/quiz-bg.png) no-repeat;
+    background-size: contain;
+    color: #fff;
+    position: absolute;
+    width: calc(100% - 50px);
+    height: 100%;
+    top: 0;
+    left: 0;
+    text-align: center;
+    padding: 0 25px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+.question{
+    font-size: 30px;
+}
+.quizButton{
+    background: transparent;
+    color: #fff;
+    border: 1px solid #fff;
+    padding: 22px 0;
+    font-size: 18px;
+    margin: 0 2.5%;
+    width: 45%;
+}

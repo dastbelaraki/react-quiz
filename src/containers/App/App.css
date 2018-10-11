@@ -1,0 +1,20 @@
+.App {
+  max-width: 435px;
+  height: 560px;
+  padding: 125px 25px 0;
+  margin: 0 auto;
+  background: #f7f7f7 url(../../assets/main-bg.png) no-repeat bottom right;
+  position: relative;
+}
+
+.App h1 {
+  font-weight: 400;
+}
+
+.startButton {
+  background-color: #000;
+  color: #fff;
+  padding: 15px 35px;
+  font-size: 20px;
+  cursor: pointer;
+}

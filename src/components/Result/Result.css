@@ -1,0 +1,41 @@
+.results{
+    text-align: center;
+    background-color: #f7f7f7;
+    position: absolute;
+    width: 100%;
+    left: 0;
+    top: 0;
+}
+
+.resultTitle {
+    color: #333;
+    font-size: 26px;
+    margin-bottom: 10px;
+}
+
+.resultDescription {
+    color: #a5a5a5;
+    max-width: 270px;
+    margin: 0 auto 40px;
+    font-size: 15px;
+}
+
+.shoeTitle{
+    color: #333;
+    font-size: 24px;
+    margin-bottom: 10px;
+    text-transform: capitalize;
+}
+
+.shoeDescription {
+    color: #a5a5a5;
+    max-width: 270px;
+    margin: 0 auto;
+    font-size: 22px;
+}
+
+.shoePrice{
+    color: #333;
+    font-size: 20px;
+    margin: 10px 0 70px;
+}
